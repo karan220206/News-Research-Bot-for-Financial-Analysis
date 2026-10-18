@@ -1,0 +1,12 @@
+langchain>=1.0
+langchain-community>=0.4
+langchain-openai>=1.0
+langchain-text-splitters>=1.0
+faiss-cpu>=1.8
+unstructured>=0.16
+beautifulsoup4>=4.12
+openai>=2.0
+python-dotenv>=1.0
+pydantic>=2.7
+streamlit>=1.40
+pytest>=8.0
